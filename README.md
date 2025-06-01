@@ -4,7 +4,7 @@ One of my favorite projects is Python-Flask-Joke-Email, which showcases my hands
 
 Key skills:
 
-    Python, Javascript, and Java programming
+    Programming skills including Python and Javascript
     Electronics troubleshooting and repair
     Website design using HTML and CSS
 
