@@ -7,6 +7,7 @@ Key skills:
     * Programming skills including Python and Javascript
     * Electronics troubleshooting and repair
     * Website design using HTML and CSS
+    * Problem solving skills
 
 I am passionate about technology, enjoy video gaming in my spare time, and have a keen interest in electronics repair. My commitment to continuous learning and delivering high-quality work sets me apart as a valuable team member in any organization.
 
