@@ -1,5 +1,5 @@
 Hello it is nice to meet you, thank you for visiting my GitHub page!  
-I am a versatile and driven professional with extensive experience in Python programming, electronics troubleshooting, and project management.  My technical proficiency is complemented by a strong ability to quickly learn new concepts and deliver results efficiently and effectively.  I take pride in my ability to analyze complex problems, develop innovative solutions, and see projects through to successful completion.
+I am a versatile and driven professional with extensive experience in Python programming, electronics troubleshooting, and project management. My technical proficiency is complemented by a strong ability to quickly learn new concepts and deliver results efficiently and effectively. I take pride in my ability to analyze complex problems, develop innovative solutions, and see projects through to successful completion.
 
 One of my favorite projects is Python-Flask-Joke-Email, which showcases my hands-on expertise in Python development and application deployment.
 
