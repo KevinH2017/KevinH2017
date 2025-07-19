@@ -12,4 +12,4 @@ Key skills:
 
 I am passionate about technology, enjoy video gaming in my spare time, and have a keen interest in electronics repair. My commitment to continuous learning and delivering high-quality work sets me apart as a valuable team member in any organization.
 
-Contact me on LinkedIn to discuss opportunities or collaborations.
+Contact me on LinkedIn to discuss job opportunities or other business inquiries.
