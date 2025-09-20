@@ -5,9 +5,9 @@ One of my favorite projects is Python-Flask-Joke-Email, which showcases my hands
 
 Key skills:
 
-    * Programming skills including Python and Javascript
-    * Programming knowledge of Salesforce Apex and SOQL languages
-    * Electronics troubleshooting and repair
+    * Programming skills including Python, Java, and Javascript
+    * Programming knowledge of Salesforce's Apex and SOQL languages
+    * Electronics and software troubleshooting and repair
     * Website design using HTML and CSS
     * Problem solving skills
 
